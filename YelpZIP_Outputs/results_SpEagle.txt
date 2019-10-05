@@ -1,0 +1,25 @@
+Average Precision of SpEagle: 0.349691 
+Area under curve of SpEagle:  NaN 
+Precision at 100: 0.500000 and NDCG at 100: 0.489104 
+Precision at 200: 0.505000 and NDCG at 200: 0.497452 
+Precision at 300: 0.520000 and NDCG at 300: 0.511751 
+Precision at 400: 0.505000 and NDCG at 400: 0.501361 
+Precision at 500: 0.472000 and NDCG at 500: 0.475393 
+Precision at 600: 0.455000 and NDCG at 600: 0.461234 
+Precision at 700: 0.451429 and NDCG at 700: 0.457626 
+Precision at 800: 0.450000 and NDCG at 800: 0.455814 
+Precision at 900: 0.448889 and NDCG at 900: 0.454410 
+Precision at 1000: 0.445000 and NDCG at 1000: 0.450783 
+Average Precision of SpEagle: 0.320786 
+Area under curve of SpEagle: 0.784693 
+Precision at 100: 0.510000 and NDCG at 100: 0.520441 
+Precision at 200: 0.500000 and NDCG at 200: 0.507861 
+Precision at 300: 0.483333 and NDCG at 300: 0.493209 
+Precision at 400: 0.490000 and NDCG at 400: 0.496476 
+Precision at 500: 0.476000 and NDCG at 500: 0.484230 
+Precision at 600: 0.471667 and NDCG at 600: 0.479639 
+Precision at 700: 0.475714 and NDCG at 700: 0.481975 
+Precision at 800: 0.471250 and NDCG at 800: 0.477674 
+Precision at 900: 0.480000 and NDCG at 900: 0.484237 
+Precision at 1000: 0.476000 and NDCG at 1000: 0.480618 
+
